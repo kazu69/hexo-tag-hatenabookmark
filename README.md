@@ -16,7 +16,9 @@ $ npm install hexo-tag-hatenabookmark --save
 
 ```
 # theme ejs file
-<%- hatenabookmark(page.permalink, page.title, 'standard-balloon') %>
+<% if (page.permalink && page.title) { %>
+  <%- hatenabookmark(page.permalink, page.title, 'standard-balloon') %>
+<% } %>
 ```
 ### In source file
 
