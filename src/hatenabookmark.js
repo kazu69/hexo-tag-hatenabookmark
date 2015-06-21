@@ -2,6 +2,7 @@ var util = require('hexo-util');
 
 ( () => {
   module.exports = (url, title, type = 'standard-balloon', lang = 'ja') => {
+    if(!url) return;
     let htmlTag = util.htmlTag;
     let regex = /^(https?|ftp):\/\//;
     let types = [
