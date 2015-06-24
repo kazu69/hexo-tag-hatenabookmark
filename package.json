@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "gulp build"
-    },
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kazu69/hexo-tag-hatenabookmark"
@@ -29,8 +29,10 @@
     "hexo-util": "^0.1.7"
   },
   "devDependencies": {
+    "chai": "^3.0.0",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.1.0",
-    "gulp-load-plugins": "^1.0.0-rc.1"
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "mocha": "^2.2.5"
   }
 }
