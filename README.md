@@ -1,4 +1,4 @@
-hexo-tag-hatenabookmark plugin
+hexo-tag-hatenabookmark plugin [![Build Status](https://drone.io/github.com/kazu69/hexo-tag-hatenabookmark/status.png)](https://drone.io/github.com/kazu69/hexo-tag-hatenabookmark/latest)
 ================
 
 > [Hexo] embed code snippet [Hatena Bookmark](http://b.hatena.ne.jp/)
