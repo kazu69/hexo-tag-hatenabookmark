@@ -1,7 +1,6 @@
 var util = require('hexo-util');
 
-( () => {
-  module.exports = (url, title, type = 'standard-balloon', lang = 'ja') => {
+module.exports = (url, title, type = 'standard-balloon', lang = 'ja') => {
     if(!url) return;
     let htmlTag = util.htmlTag;
     let regex = /^(https?|ftp):\/\//;
@@ -55,6 +54,5 @@ var util = require('hexo-util');
     }, '');
 
     return link + hatenaScript;
-  };
+};
 
-}).call(typeof global !== 'undefined' ? global : window);
