@@ -1,5 +1,7 @@
-hexo-tag-hatenabookmark plugin [![Build Status](https://drone.io/github.com/kazu69/hexo-tag-hatenabookmark/status.png)](https://drone.io/github.com/kazu69/hexo-tag-hatenabookmark/latest) [![npm version](https://badge.fury.io/js/hexo-tag-hatenabookmark.svg)](http://badge.fury.io/js/hexo-tag-hatenabookmark)
+hexo-tag-hatenabookmark plugin
 ================
+
+[![Build Status](https://drone.io/github.com/kazu69/hexo-tag-hatenabookmark/status.png)](https://drone.io/github.com/kazu69/hexo-tag-hatenabookmark/latest) [![npm version](https://badge.fury.io/js/hexo-tag-hatenabookmark.svg)](http://badge.fury.io/js/hexo-tag-hatenabookmark)
 
 > [Hexo] embed code snippet [Hatena Bookmark](http://b.hatena.ne.jp/)
 
