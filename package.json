@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-hatenabookmark",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "hatena bookmark tag",
   "main": "index.js",
   "scripts": {
@@ -27,13 +27,13 @@
   "homepage": "https://github.com/kazu69/hexo-tag-hatenabookmark",
   "license": "MIT",
   "dependencies": {
-    "hexo-util": "^0.1.7"
+    "hexo-util": "^0.5.1"
   },
   "devDependencies": {
-    "chai": "^3.0.0",
+    "chai": "^3.4.1",
     "gulp": "^3.9.0",
-    "gulp-babel": "^5.1.0",
-    "gulp-load-plugins": "^1.0.0-rc.1",
-    "mocha": "^2.2.5"
+    "gulp-babel": "^6.1.1",
+    "gulp-load-plugins": "^1.1.0",
+    "mocha": "^2.3.4"
   }
 }
