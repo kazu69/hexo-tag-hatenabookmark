@@ -42,4 +42,4 @@ More information see [Hatena Bookmark Button](http://b.hatena.ne.jp/guide/bbutto
 
 ## License
 
-MIT
+MIT © kazu69
