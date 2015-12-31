@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-hatenabookmark",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "hatena bookmark tag",
   "main": "index.js",
   "scripts": {
