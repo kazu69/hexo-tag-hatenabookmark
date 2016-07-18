@@ -27,7 +27,7 @@
   "homepage": "https://github.com/kazu69/hexo-tag-hatenabookmark",
   "license": "MIT",
   "dependencies": {
-    "hexo-util": "^0.5.3"
+    "hexo-util": "^0.6.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
